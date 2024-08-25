@@ -56,4 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 - **[Weixian Qian](https://github.com/Janus117)**
-- **[shaynewx](https://github.com/shaynewx)**
+- **[Xuan Wang](https://github.com/shaynewx)**
